@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657387156204",
+    "project_id": "messaginny-56d5b",
+    "storage_bucket": "messaginny-56d5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657387156204:android:5f0f1ac03b8f54efc5ebc9",
+        "android_client_info": {
+          "package_name": "co.NavidhaJain.messaginny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657387156204-crtk8v6fmvla0uhk2dg8u0cu2lf47fdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLOfjvbqdXK5CdQp1oklMY_DdJEuM4jYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657387156204-crtk8v6fmvla0uhk2dg8u0cu2lf47fdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
